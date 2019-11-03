@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card > div {
+  margin: 0.25rem;
+}
+
+.image {
+  border-radius: 50%;
+}
